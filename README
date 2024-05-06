@@ -1,0 +1,6 @@
+Semiconductor  Quantum Reservoir Computing (QRC) repository for time-series prediction and quantum algorithm neuromoprhic compression.
+
+Ham : charge Hamiltonian generator (spinless Fermi-Hubbard model)
+Spin_model : spin Hamiltonian generator (Heisenberg spin chain)
+vshape_charge_large_3 : quasi-2D quantum dot array generator for charge QR with 12 qubits in total (3 computational and 9 reservoir)
+vshape_spin_large_3 : quasi-2D quantum dot array generator for spin QR with 12 qubits in total (3 computational and 9 reservoir)
