@@ -1,5 +1,9 @@
-Here we have the training, evaluation and plotting files for a QR of size N_S = N_C + N_R = 12, with N_C = 3 and N_R = 9
+Here we have the training, evaluation and plotting files for a QR of 12 qubits in total (3 computational and 9 reservoir qubits)
 
-N_S : system size
-N_C : number of computational qubits
-N_R : number of  reservoir qubits
+targets_3 : 3 qubit target algorithms to be compressed
+train_large_3 : training procedure for the charge QR (70% data)
+train_spin_large_3 : training procedure for the spin QR (70% data)
+evaluate_large_3 : evaluation procedure for the charge QR (30% data)
+evaluate_spin_large_3 : evaluation procedure for the charge QR (30% data)
+output_plot_charge_large : output plot of fidelity histograms, target and output density matrices for charge QRC
+output_plot_spin_large : output plot of fidelity histograms, target and output density matrices for spin QRC
