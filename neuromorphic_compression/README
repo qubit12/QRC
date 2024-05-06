@@ -1,6 +1,6 @@
 Here we have the training, evaluation and plotting files for a QR of 12 qubits in total (3 computational and 9 reservoir qubits)
 
-targets_3 : 3 qubit target algorithms to be compressed
+targets_3 : 3-qubit target algorithms to be compressed
 train_large_3 : training procedure for the charge QR (70% data)
 train_spin_large_3 : training procedure for the spin QR (70% data)
 evaluate_large_3 : evaluation procedure for the charge QR (30% data)
