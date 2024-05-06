@@ -1,0 +1,8 @@
+dataset_gen : dataset generator for various datasets to be emulated (time-series)
+train_data_get : generate the training dataset
+QRC_loading_charge : classical data loading on the charge QRC
+QRC_loading_spin : classical data loading on the spin QRC
+timeseries_train : training procedure of the QRC
+evaluate : evaluation procedure of the QRC
+
+The initial 9% of data are discarded in the washout phase (forgetting initial conditions), 70% are used for training and 20% for evaluation
