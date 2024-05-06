@@ -1,0 +1,5 @@
+Here we have the training, evaluation and plotting files for a QR of size N_S = N_C + N_R = 12, with N_C = 3 and N_R = 9
+
+N_S : system size
+N_C : number of computational qubits
+N_R : number of  reservoir qubits
